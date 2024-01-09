@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<h1 align="center">Hi there 👋, I'm Mozzam</h1>
+<h1 align="center">Hi there 👋, I'm Gaurav</h1>
 <h3 align="center">Passionate Software Engineer from Mumbai, India</h3>
 
 <!-- Introduction Section -->
@@ -12,9 +12,9 @@
 - 🔭 Working at [Finrise Softech](https://phoenix.tech/griffyn/)
 - 🌱 Currently working on a Web App (Django-Node.js)
 - 🌱 Learning Docker, Microservices, and Kafka
-- 💬 Ask me about **Django, Node.js, Microservices, Redis, and Kafka**
-- 📫 How to reach me: [mozzam607@gmail.com](mailto:mozzam607@gmail.com)
-- 📄 [Resume](https://github.com/mozzam123/mozzam123/blob/main/Mozzam's%20Resume.pdf)
+- 💬 Ask me about **Django, Python, Mysql, PostgreSQL, Javascript, Websocket, Java, SpringBoot**
+- 📫 How to reach me: [gauravwarise04@gmail.com](mailto:gauravwarise04@gmail.com)
+- 📄 [Resume]()
 
 <br/>
 
@@ -31,20 +31,23 @@
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
   </a> 
-  <a href="https://www.nodejs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a> 
+   <a href="https://www.nodejs.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a>
+   <a href="https://www.nodejs.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> 
+  </a>
 </p>
 
 <br/>
 
-<!-- Deployment Section -->
+<!-- Deployment Section
 ### Deploy ⚙
 
 <p align="left">
@@ -61,14 +64,14 @@
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
   </a> 
 </p>
-
+ -->
 ---
 
 <br/>
 
 <!-- GitHub Stats Section -->
-![Your Repository's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mozzam123&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![Your Repository's Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mozzam123&layout=compact&theme=dark&card_width=400)
+![Your Repository's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gauravwarise&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![Your Repository's Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gauravwarise&layout=compact&theme=dark&card_width=400)
 
 <br/>
 
@@ -76,13 +79,13 @@
 <h3 align="center">Connect with me 🤝</h3>
 
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/mozzam/">
+  <a target="_blank" href="https://www.linkedin.com/in/gauravwarise/">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
   </a>
-  <a target="_blank" href="https://github.com/mozzam123">
+  <a target="_blank" href="https://github.com/gauravwarise">
     <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
   </a>
-  <a target="_blank" href="https://instagram.com/mozzam_inamdar">
+  <a target="_blank" href="https://instagram.com/gauravwarise">
     <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
   </a>
 </p>
