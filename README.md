@@ -10,8 +10,7 @@
 ### About Me
 
 - 🔭 Working at [Finrise Softech](https://phoenix.tech/griffyn/)
-- 🌱 Currently working on a Web App (Django-Node.js)
-- 🌱 Learning Docker, Microservices, and Kafka
+- 🌱 Currently working on a Web App (Django)
 - 💬 Ask me about **Django, Python, Mysql, PostgreSQL, Javascript, Websocket, Java, SpringBoot**
 - 📫 How to reach me: [gauravwarise04@gmail.com](mailto:gauravwarise04@gmail.com)
 - 📄 [Resume]()
